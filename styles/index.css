@@ -1,0 +1,21 @@
+
+
+article img.imgPrincipal{
+
+  position: relative;
+  width: 80%;
+  left: 50%;
+  transform: translate(-50%, 0);
+  -ms-transform: translate(-50%, 0);
+  -webkit-transform: translate(-50%, 0);
+}
+.textoDerechoR{
+  text-align:justify;
+  margin: 10px 20px;
+font-size: 17px;
+  color:rgb(246, 246, 246);
+}
+
+.subtitulo{
+  margin-left: 10px;
+}
